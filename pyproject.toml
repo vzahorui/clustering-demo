@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "clustering-overview"
+version = "0.1.0"
+description = ""
+authors = ["Vladyslav Zahorui <vzahorui.dev@gmail.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.12"
+bokeh = "^3.4.1"
+scikit-learn = "^1.4.2"
+panel = "^1.4.2"
+watchfiles = "^0.21.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
