@@ -12,3 +12,5 @@ You can:
     - Visualize the clustering results with distinct colors assigned to each cluster.
     - Identify outliers (if the algorithm supports it), marked in dark gray for easy recognition.
     - Observe how hyperparameter changes affect the clustering outcome.
+
+Live version published here: https://huggingface.co/spaces/vzahorui/clustering-demo
